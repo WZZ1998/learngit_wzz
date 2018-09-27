@@ -5,4 +5,4 @@ Git tracks changes of files.
 Changing new branch is very quick and easy.
 Further test of branch function!
 A bug is fixed here.
-Here is always the tb branch, and the branch is just marching.
+Here is always the sub tb branch, and the branch is just marching.
