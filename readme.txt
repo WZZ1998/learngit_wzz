@@ -6,3 +6,5 @@ Changing new branch is very quick and easy.
 Further test of branch function!
 Daily work is set here.
 Now the work is going to be stashed.
+This is a mark of the tag test in branch dev_0.
+
