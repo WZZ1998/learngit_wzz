@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Changing new branch is very quick and easy.
 Further test of branch function!
+A bug is fixed here.
