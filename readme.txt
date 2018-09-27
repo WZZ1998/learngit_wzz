@@ -5,4 +5,7 @@ Git tracks changes of files.
 Changing new branch is very quick and easy.
 Further test of branch function!
 A bug is fixed here.
+
 Here is always the main master branch, and the branch is just marching.
+
+This is fixed in the master.
